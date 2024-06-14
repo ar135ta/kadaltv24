@@ -151,19 +151,19 @@ section .btnfive {
 
 @keyframes changetext {
   0% {
-    content: "Indo_TV";
+    content: "EURO_2024";
   }
   25% {
-    content: "Relax_TV";
+    content: "ASEAN_TV";
   }
   50% {
-    content: "Feed_TV";
+    content: "INDIA_TV";
   }
   75% {
-    content: "Hindi_TV";
+    content: "JADWAL_BOLA";
   }
   100% {
-    content: "Live_TV";
+    content: "METALLICA_SM2";
   }
 
 }
